@@ -159,7 +159,9 @@
 
 <img src="assets/line.svg" height="60" width="100%">
 
+<!-- Enable once you rank on committers.top:
 [![committers.top badge](https://user-badge.committers.top/india/KUSINITHEJA.svg)](https://user-badge.committers.top/india/KUSINITHEJA)<br>
 [![committers.top badge](https://user-badge.committers.top/india_public/KUSINITHEJA.svg)](https://user-badge.committers.top/india_public/KUSINITHEJA)
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00d4ff,100:b31217&height=140&section=footer" width="100%" alt="footer">
