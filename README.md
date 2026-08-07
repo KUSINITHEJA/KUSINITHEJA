@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/KUSINITHEJA">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Kusini%20Theja!;Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+AWS&font=Fira%20Code&center=true&width=640&height=45&color=ffffff&vCenter=true&pause=1000&size=30" alt="Kusini Theja" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Kusini%20Theja!;Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+AWS&font=Fira%20Code&center=true&width=800&height=90&color=ffffff&background=000000&vCenter=true&pause=1000&size=30" alt="Kusini Theja" />
     </a>
 </p>
 
