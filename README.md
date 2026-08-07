@@ -84,7 +84,7 @@
 </p>
 
 <h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=ffffff&authorColor=8b949e&bgColor=000000&symbolColor=6e7681&borderColor=161b22" alt="Random dev quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=000000&quoteColor=ffffff&authorColor=8b949e&symbolColor=6e7681&borderColor=161b22" alt="Random dev quote">
 
 <hr>
 
@@ -92,7 +92,7 @@
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
   <p align="left">
     <a href="https://github.com/KUSINITHEJA/KUSINITHEJA">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KUSINITHEJA&repo=KUSINITHEJA&hide_border=true&show_icons=false&show_description=false&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" alt="KUSINITHEJA">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KUSINITHEJA&repo=KUSINITHEJA&hide_border=true&show_owner=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" alt="KUSINITHEJA">
     </a>
   </p>
 
@@ -105,7 +105,7 @@
   <summary><h2>📌 Pinned</h2></summary>
   <!-- Swap `repo=` for your own repositories as you publish them. -->
   <a href="https://github.com/KUSINITHEJA/KUSINITHEJA">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KUSINITHEJA&repo=KUSINITHEJA&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" alt="KUSINITHEJA">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=KUSINITHEJA&repo=KUSINITHEJA&hide_border=true&show_owner=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" alt="KUSINITHEJA">
   </a>
 </details>
 
