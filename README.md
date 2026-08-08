@@ -84,19 +84,28 @@
 
 <img src="assets/glass-stats.svg" width="330" alt="GitHub Stats">
 
-<p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=KUSINITHEJA&background=000000&border=161b22&stroke=161b22&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&hide_border=true" alt="Streak"><br>
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KUSINITHEJA&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Theja's%20Most%20Used%20Languages&bg_color=000000&title_color=ffffff&text_color=c9d1d9" alt="Top Languages"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KUSINITHEJA&show_icons=true&line_height=30&rank_icon=github&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=8b949e" alt="GitHub Stats"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KUSINITHEJA&theme=github_dark" width="33%" alt="Repos per language"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KUSINITHEJA&theme=github_dark" width="33%" alt="Most commit language"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KUSINITHEJA&theme=github_dark&utcOffset=+5.5" width="33%" alt="Productive time"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KUSINITHEJA&theme=github_dark" width="100%" alt="Profile details">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KUSINITHEJA&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff&area=true&area_color=1a1a1a&hide_border=true" alt="Activity graph">
+<p align="center">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KUSINITHEJA&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&border_radius=18&bg_color=00000000&title_color=6fd3ff&text_color=c9d1d9&icon_color=6fd3ff&border_color=1b2230&ring_color=6fd3ff" alt="GitHub Stats">
+    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=KUSINITHEJA&background=00000000&border=1b2230&stroke=1b2230&ring=6fd3ff&fire=6fd3ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6fd3ff&sideLabels=8b949e&dates=6e7681&border_radius=18" alt="Streak">
+</p>
+
+<p align="center">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KUSINITHEJA&include_all_commits=true&count_private=true&layout=donut&langs_count=8&border_radius=18&custom_title=Most%20Used%20Languages&bg_color=00000000&title_color=6fd3ff&text_color=c9d1d9&border_color=1b2230" alt="Top Languages">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KUSINITHEJA&theme=transparent&utcOffset=+5.5" alt="Productive time">
+</p>
+
+<p align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KUSINITHEJA&custom_title=Contribution%20Activity&bg_color=00000000&color=c9d1d9&line=6fd3ff&point=ffffff&title_color=6fd3ff&area=true&area_color=6fd3ff&hide_border=true&radius=16" alt="Activity graph">
+</p>
+
+<p align="center">
     <!-- Uncomment after adding .github/workflows/snake.yml and 3d-contrib.yml (see WORKFLOWS.md) and letting them run once.
     <img src="https://raw.githubusercontent.com/KUSINITHEJA/KUSINITHEJA/snake/github-snake-dark.svg" width="100%" alt="Contribution snake"><br>
     <img src="https://raw.githubusercontent.com/KUSINITHEJA/KUSINITHEJA/output-3d-contrib/profile-night-view.svg" alt="3D Contributions"/>
     -->
 </p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=000000&quoteColor=ffffff&authorColor=8b949e&symbolColor=6e7681&borderColor=161b22" alt="Random dev quote">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=000000&quoteColor=ffffff&authorColor=6fd3ff&symbolColor=6e7681&borderColor=1b2230" alt="Random dev quote">
 
 <img src="assets/glass-divider.svg" width="100%" height="26" alt="">
 
