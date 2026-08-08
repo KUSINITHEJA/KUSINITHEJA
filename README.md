@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="assets/hello.gif" width="600" alt="Animated hello in multiple languages">
+</p>
+
+<p align="center">
     <a href="https://github.com/KUSINITHEJA">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Kusini%20Theja!;Full+Stack+Java+Developer;Spring+Boot+%7C+Angular+%7C+AWS&font=Fira%20Code&center=true&width=800&height=90&color=ffffff&background=000000&vCenter=true&pause=1000&size=30" alt="Kusini Theja" />
     </a>
@@ -29,6 +33,18 @@
 <img width="300" alt="Metrics" src="https://raw.githubusercontent.com/KUSINITHEJA/KUSINITHEJA/main/github-metrics.svg"><br>
 <img width="300" alt="Isocalendar" src="https://raw.githubusercontent.com/KUSINITHEJA/KUSINITHEJA/main/metrics.plugin.isocalendar.fullyear.svg">
 -->
+
+<img align="right" src="assets/mario.gif" width="320" alt="Mario">
+
+**🙋‍♂️ About Me:** <img src="assets/wave.gif" height="28" align="top" alt="wave"><br><br>
+
+- 🔭 Building full stack apps with **Java, Spring Boot &amp; Angular**
+- ☁️ Deploying and automating on **AWS &amp; Docker**
+- 🌱 Currently sharpening **microservices** and **system design**
+- 💬 Ask me about Spring Boot, REST APIs, Hibernate or SQL
+- 📫 Reach me at **thejakusini@gmail.com**
+
+<br clear="right">
 
 **💻Tech Stack:**<br><br>
 <p>
@@ -64,11 +80,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL">&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL">
-</p><br><br>
+</p>
+
+<p align="center">
+    <img src="assets/techstack.gif" width="420" alt="Floating tech stack">
+</p><br>
 
 <h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" align="top" alt="GitHub">
     &nbsp;GitHub Stats:
+    <img src="assets/rocket.png" height="30" align="top" alt="rocket">
 </h2>
 
 <p>
