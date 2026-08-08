@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150" role="img" aria-label="Thanks for visiting">
+
+  <defs>
+    <linearGradient id="sheenf" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="edgef" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="35%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="65%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="sweepf" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blurf" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <clipPath id="clipf">
+      <rect x="1" y="1" width="998" height="148" rx="44" ry="44"/>
+    </clipPath>
+  </defs>
+  <rect width="1000" height="150" fill="#000000"/>
+  <g clip-path="url(#clipf)">
+    <g filter="url(#blurf)" opacity="0.30">
+      <ellipse cx="160" cy="38" rx="160" ry="75" fill="#2b4d8f"/>
+      <ellipse cx="520" cy="150" rx="200" ry="68" fill="#5a2b8f"/>
+      <ellipse cx="880" cy="30" rx="140" ry="68" fill="#166a72"/>
+    </g>
+    <rect width="1000" height="150" fill="#000000" fill-opacity="0.45"/>
+  </g>
+    <rect x="1" y="1" width="998" height="148" rx="44" ry="44"
+          fill="#ffffff" fill-opacity="0.03" filter="url(#blurf)"/>
+    <rect x="1" y="1" width="998" height="148" rx="44" ry="44" fill="#ffffff" fill-opacity="0.05"/>
+    <rect x="1" y="1" width="998" height="148" rx="44" ry="44" fill="url(#sheenf)"/>
+    <g clip-path="url(#clipf)">
+      <rect x="-450" y="0" width="450" height="150" fill="url(#sweepf)">
+        <animate attributeName="x" from="-450" to="1000" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <ellipse cx="300" cy="-52" rx="420" ry="93"
+               fill="#ffffff" fill-opacity="0.06"/>
+    </g>
+    <rect x="1" y="1" width="998" height="148" rx="44" ry="44"
+          fill="none" stroke="url(#edgef)" stroke-width="1.4"/>
+    <rect x="3" y="3" width="994" height="144" rx="42" ry="42"
+          fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="500" y="72" font-size="28" font-weight="600" fill="#ffffff">Thanks for stopping by</text>
+    <text x="500" y="111" font-size="17" fill="#ffffff" fill-opacity="0.55" letter-spacing="2">WRITE IT &#183; TEST IT &#183; SHIP IT</text>
+  </g>
+</svg>

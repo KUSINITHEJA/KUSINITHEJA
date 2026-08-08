@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 26" width="1000" height="26" preserveAspectRatio="none" role="img" aria-label="Divider">
+  <defs>
+    <linearGradient id="lined" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="80%" stop-color="#ffffff" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glintd" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softd" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <rect width="1000" height="26" fill="#000000"/>
+  <rect x="0" y="10" width="1000" height="6" rx="3" fill="url(#lined)" filter="url(#softd)" opacity="0.7"/>
+  <rect x="0" y="12" width="1000" height="2" rx="1" fill="url(#lined)"/>
+  <rect x="-240" y="9" width="240" height="8" rx="4" fill="url(#glintd)" filter="url(#softd)">
+    <animate attributeName="x" from="-240" to="1000" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
