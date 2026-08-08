@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-    <img src="assets/techstack.gif" width="400" alt="Floating tech stack">
+    <img src="assets/jarvis.gif" width="100%" alt="Stark Industries J.A.R.V.I.S. interface">
 </p>
 
 <img src="assets/glass-divider.svg" width="100%" height="26" alt="">
